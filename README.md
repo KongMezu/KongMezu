@@ -7,5 +7,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KongMezu&theme=panda)](https://github.com/KongMezu/github-readme-stats)
 
 <!--잔디 ㄲ미기-->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+
 
