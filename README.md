@@ -6,6 +6,7 @@
 <!--내용(tech stack / studying / tool / readme stats /top language cardd )-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KongMezu&theme=panda)](https://github.com/KongMezu/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongMezu&layout=compact)
-
 <!--잔디 ㄲ미기-->
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+
