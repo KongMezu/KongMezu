@@ -4,7 +4,14 @@
 </div>
 
 <!--내용(tech stack / studying / tool / readme stats /top language cardd )-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KongMezu&theme=panda)](https://github.com/KongMezu/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/KongMezu/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KongMezu&theme=panda" />
+  </a>
+  <a href="https://github.com/KongMezu/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongMezu&layout=compact" />
+  </a>
+</div>
 
 <h3 align="center">🩷 Tech Stack 🩷</h3>
 <div align="center">
@@ -13,7 +20,12 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
+<br>
 
+<div align="center">
+ <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SQLD-003B6F.svg?style=for-the-badge&logo=sql&logoColor=white" />&nbsp
+</div>
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
@@ -33,10 +45,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp
 </div>
 
-
-
-<!--잔디 ㄲ미기-->
 
 
