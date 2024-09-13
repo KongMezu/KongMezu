@@ -6,14 +6,14 @@
 <!--내용(tech stack / studying / tool / readme stats /top language cardd )-->
 <div align="center">
   <a href="https://github.com/KongMezu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KongMezu&theme=panda" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KongMezu&theme=gruvbox_light" />
   </a>
   <a href="https://github.com/KongMezu/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongMezu&layout=compact" />
   </a>
 </div>
 
-<h3 align="center">🩷 Tech Stack 🩷</h3>
+<h3 align="center">🐤 Tech Stack🐤</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
