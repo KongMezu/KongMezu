@@ -1,6 +1,6 @@
 <!--메인 타이틀-->
 <div align="center">
-  <img src="이미지 넣기" />
+  <img src="C:\Users\mings\Downloads\제목을-입력해주세요_.gif"/>
 </div>
 
 <!--내용(tech stack / studying / tool / readme stats /top language cardd )-->
