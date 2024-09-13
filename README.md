@@ -1,6 +1,6 @@
 <!--메인 타이틀-->
 <div align="center">
-  <img src="https://github.com/KongMezu/KongMezu/commit/9030ff229e918f8daa0cab07c9cce28ffb8138ad"/>
+  <img src="https://github.com/KongMezu/KongMezu/blob/main/%EC%B0%90.gif"/>
 </div>
 
 <!--내용(tech stack / studying / tool / readme stats /top language cardd )-->
