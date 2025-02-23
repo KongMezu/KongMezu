@@ -64,21 +64,4 @@
 
 
 
-<!-- 프로젝트 섹션 -->
-<h3 align="center">🚀 Projects 🚀</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/KongMezu/project1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KongMezu&repo=project1&theme=gruvbox_light" width="300"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/KongMezu/project2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KongMezu&repo=project2&theme=gruvbox_light" width="300"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
