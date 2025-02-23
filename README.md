@@ -3,19 +3,19 @@
   <img src="https://github.com/KongMezu/KongMezu/blob/main/%EC%B0%90.gif"/>
 </div>
 
----
+<p align="center">― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―</p>
 
 <!-- GitHub Stats 및 사용 언어 -->
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KongMezu/github-readme-stats">
+        <a href="https://github.com/KongMezu">
           <img src="https://github-readme-stats.vercel.app/api?username=KongMezu&theme=gruvbox_light" width="400"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/KongMezu/github-readme-stats">
+        <a href="https://github.com/KongMezu">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongMezu&layout=compact" width="320"/>
         </a>
       </td>
@@ -23,7 +23,7 @@
   </table>
 </div>
 
----
+<p align="center">― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―</p>
 
 <!-- Tech Stack -->
 <h3 align="center">🐤 Tech Stack 🐤</h3>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/SQLD-003B6F.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
 
----
+<p align="center">― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―</p>
 
 <!-- Studying -->
 <h3 align="center">📚 Studying 📚</h3>
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
 </p>
 
----
+<p align="center">― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―</p>
 
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
+<p align="center">― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―</p>
 
 <!-- 프로젝트 섹션 -->
 <h3 align="center">🚀 Projects 🚀</h3>
