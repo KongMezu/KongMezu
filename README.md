@@ -1,6 +1,6 @@
 <!-- 메인 타이틀 -->
 <div align="center">
-  <img src="https://github.com/KongMezu/KongMezu/blob/main/%EC%B0%90.gif"/>
+  <img src="https://github.com/KongMezu/KongMezu/blob/main/%EC%B0%90%EC%B0%90%EB%A1%9C%EA%B3%A0.gif"/>
 </div>
 
 <p align="center">― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―</p>
