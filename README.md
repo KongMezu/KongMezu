@@ -5,23 +5,6 @@
 </div>
 
 
- <!-- GitHub Stats 및 사용 언어 -->
-<!-- div align="center" -->
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/KongMezu">
-          <img src="https://github-readme-stats.vercel.app/api?username=KongMezu&theme=gruvbox_light" width="400"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KongMezu">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongMezu&layout=compact" width="320"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-<!-- /div -->
 
 <!-- Tech Stack -->
 <h3 align="center">🐤 Tech Stack 🐤</h3>
