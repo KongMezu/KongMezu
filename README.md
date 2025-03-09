@@ -33,12 +33,8 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a"/>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLD-003B6F.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
-
 
 <!-- Studying -->
 <h2  align="center">📚 Studying </h2>
