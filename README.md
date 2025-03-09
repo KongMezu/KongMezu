@@ -7,16 +7,14 @@
 
 <!-- About Me -->
 <h3>🐤 About Me </h3>
-<hr style="border: 0.2px dashed #ccc;"/>
+<hr style=" #ccc;"/>
 <p>
   <strong>Lee Sumin</strong> | Front-End Developer at Catholic University
 </p>
 
-<hr style="border: 0.2px dashed #ccc;"/>
-
 <!-- Activity -->
 <h3>🌟 Activity </h3>
-<hr style="border: 0.2px dashed #ccc;"/>
+<hr style=" #ccc;"/>
 <ul>
   <li>👩‍💻 <strong>2024.02 – 2024.11</strong>  | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
   <li>🦁 <strong>2024. 03 - 2024. 12</strong> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
@@ -25,7 +23,7 @@
 
 <!-- Projects -->
 <h3>🔥 Projects </h3>
-<hr style="border: 0.2px dashed #ccc;"/>
+<hr style=" #ccc;"/>
 <ul>
   <li>🚶‍♂️ <strong>2024. 07 - 2024. 12</strong> | Walk Record Service <strong><a href="https://github.com/KongMezu/GumiDang">Gummy Dang</a></strong> | Frontend</li>
   <li>🔄 <strong>2024. 10</strong> | Rental Service in school <strong><a href="https://github.com/KongMezu/ggum_borrow_me">“Borrow Me”</a></strong> | Frontend, Part Leader</li>
@@ -34,7 +32,7 @@
 
 <!-- Tech Stack -->
 <h3>💡 Tech Stack </h3>
-<hr style="border: 0.2px dashed #ccc;"/>
+<hr style=" #ccc;"/>
 <p>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a"/>
@@ -50,7 +48,7 @@
 
 <!-- Studying -->
 <h3>📚 Studying </h3>
-<hr style="border: 0.2px dashed #ccc;"/>
+<hr style=" #ccc;"/>
 <p>
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
@@ -60,6 +58,7 @@
 
 <!-- Tools -->
 <h3>🛠 Tools </h3>
+<hr style=" #ccc;"/>
 <p>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
