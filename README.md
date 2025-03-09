@@ -25,7 +25,7 @@
   <li>🔄 <strong>2024. 10</strong> | Rental Service in school <strong><a href="https://github.com/KongMezu/ggum_borrow_me">“Borrow Me”</a></strong> | Frontend, Part Leader</li>
 </ul>
 
-
+<br>
 <!-- Tech Stack -->
 <h2>💡 Tech Stack </h2>
 <p>
