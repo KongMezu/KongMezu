@@ -5,7 +5,7 @@
 
 
 <!-- About Me -->
-<h2>🐤 About Me </h2>
+<h2>🐤 About Me 🐤 </h2>
 <p>
   <strong>Lee Sumin</strong> | <strong>Front-End Developer</strong> at Catholic University
 </p>
