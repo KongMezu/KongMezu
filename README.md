@@ -5,8 +5,8 @@
 </div>
 
 
-<!-- <!-- GitHub Stats 및 사용 언어 -->
-<div align="center">
+ <!-- GitHub Stats 및 사용 언어 -->
+<!-- div align="center" -->
   <table>
     <tr>
       <td>
@@ -21,8 +21,7 @@
       </td>
     </tr>
   </table>
-</div>
--->
+<!-- /div -->
 
 <!-- Tech Stack -->
 <h3 align="center">🐤 Tech Stack 🐤</h3>
