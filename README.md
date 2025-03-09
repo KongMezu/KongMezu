@@ -4,10 +4,31 @@
   <img src="https://github.com/KongMezu/KongMezu/blob/main/%EC%A7%84%EC%A7%9C%EC%B5%9C%EC%A2%85%EB%A1%9C%EA%B3%A0.gif"/>
 </div>
 
+<!-- About Me -->
+<h3 align="center"> 🐤 About Me 🐤 </h3>
+<p align="center">
+  <strong>Lee Sumin</strong> | Front-End Developer at Catholic University <br/>
+</p>
+
+<!-- Activity -->
+<h3 align="center">🌟 Activity 🌟</h3>
+<ul>
+  <li>👩‍💻 <strong>2024.02 – 2024.11</strong> | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
+  <li>🦁 <strong>2024.03 – 2024.12</strong> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
+</ul>
+
+<!-- Projects -->
+<h3 align="center">🔥 Projects 🔥</h3>
+<ul>
+  <li>🚶‍♂️ <strong>2024.07 – 2024.12</strong> | Walk Record Service <strong>Gummy Dang</strong> | Frontend</li>
+  <li>🔄 <strong>2024.10</strong> | Rental Service in school <strong>“Borrow Me”</strong> | Frontend, Part Leader</li>
+</ul>
+
+
 
 
 <!-- Tech Stack -->
-<h3 align="center">🐤 Tech Stack 🐤</h3>
+<h3 align="center">💡 Tech Stack 💡</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a"/>
