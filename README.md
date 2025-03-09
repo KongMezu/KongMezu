@@ -4,16 +4,15 @@
 </div>
 
 
-
 <!-- About Me -->
-<h3>🐤 About Me </h3>
+<h2>🐤 About Me </h2>
 <hr style=" #ccc;"/>
 <p>
   <strong>Lee Sumin</strong> | Front-End Developer at Catholic University
 </p>
 
 <!-- Activity -->
-<h3>🌟 Activity </h3>
+<h2>🌟 Activity </h2>
 <hr style=" #ccc;"/>
 <ul>
   <li>👩‍💻 <strong>2024.02 – 2024.11</strong>  | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
@@ -22,7 +21,7 @@
 
 
 <!-- Projects -->
-<h3>🔥 Projects </h3>
+<h2>🔥 Projects </h2>
 <hr style=" #ccc;"/>
 <ul>
   <li>🚶‍♂️ <strong>2024. 07 - 2024. 12</strong> | Walk Record Service <strong><a href="https://github.com/KongMezu/GumiDang">Gummy Dang</a></strong> | Frontend</li>
@@ -31,7 +30,7 @@
 
 
 <!-- Tech Stack -->
-<h3>💡 Tech Stack </h3>
+<h2>💡 Tech Stack </h2>
 <hr style=" #ccc;"/>
 <p>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -46,7 +45,7 @@
 
 
 <!-- Studying -->
-<h3>📚 Studying </h3>
+<h2>📚 Studying </h2>
 <hr style=" #ccc;"/>
 <p>
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -54,7 +53,7 @@
 </p>
 
 <!-- Tools -->
-<h3>🛠 Tools </h3>
+<h2>🛠 Tools </h2>
 <hr style=" #ccc;"/>
 <p>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
