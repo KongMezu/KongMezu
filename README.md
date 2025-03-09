@@ -16,8 +16,8 @@
 <!-- Activity -->
 <h3>🌟 Activity 🌟</h3>
 <ul>
-  <li>👩‍💻 <span style="font-weight: bold; color: #555;">2024. 02 – 2024. 11</span> | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
-  <li>🦁 <span style="font-weight: bold; color: #555;">2024. 03 – 2024. 12</span> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
+  <li>👩‍💻 <span style="font-weight: bold; color: #555;">2024. 02 - 2024. 11</span> | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
+  <li>🦁 <span style="font-weight: bold; color: #555;">2024. 03 - 2024. 12</span> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
 </ul>
 
 <hr style="border: 0.2px dashed #ccc;"/>
@@ -25,7 +25,7 @@
 <!-- Projects -->
 <h3>🔥 Projects 🔥</h3>
 <ul>
-  <li>🚶‍♂️ <span style="font-weight: bold; color: #555;">2024. 07 – 2024. 12</span> | Walk Record Service <strong><a href="https://github.com/KongMezu/GumiDang">Gummy Dang</a></strong> | Frontend</li>
+  <li>🚶‍♂️ <span style="font-weight: bold; color: #555;">2024. 07 - 2024. 12</span> | Walk Record Service <strong><a href="https://github.com/KongMezu/GumiDang">Gummy Dang</a></strong> | Frontend</li>
   <li>🔄 <span style="font-weight: bold; color: #555;">2024. 10</span> | Rental Service in school <strong><a href="https://github.com/KongMezu/ggum_borrow_me">“Borrow Me”</a></strong> | Frontend, Part Leader</li>
 </ul>
 
