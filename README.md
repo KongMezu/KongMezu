@@ -1,4 +1,4 @@
-![JudgeJudyAin'TGotTimeForThatGIF](https://github.com/user-attachments/assets/d583f61c-9147-4ed5-9561-30d47295e618)<!-- 메인 타이틀 -->
+<!-- 메인 타이틀 -->
 <div align="center">
   <img src="https://github.com/KongMezu/KongMezu/blob/main/%EC%A7%84%EC%A7%9C%EC%B5%9C%EC%A2%85%EB%A1%9C%EA%B3%A0.gif"/>
 </div>
@@ -16,7 +16,7 @@
   <li>👩‍💻 <strong>2024.02 – 2024.11</strong>  | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
   <li>🦁 <strong>2024. 03 - 2024. 12</strong> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
   <li>🍭 <strong>2025. 03 - 2025. 06</strong> | GDG on Campus CUK - 가톨릭대학교 GDG 4기 </li>
-  <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend - Grand Prize</li>
+  <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend - 🏆 Grand Prize</li>
 </ul>
 
 
