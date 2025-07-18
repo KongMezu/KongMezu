@@ -24,8 +24,8 @@
 <h2>🔥 Projects </h2>
 <ul>
   <li>🔄 <strong>2024. 10</strong> | Rental Service in school <strong><a href="https://github.com/KongMezu/ggum_borrow_me">“Borrow Me”</a></strong> | Frontend, Part Leader</li>
-    <li>🚶‍♂️ <strong>2024. 07 - 2024. 12</strong> | Walk Record Service <strong><a href="https://github.com/KongMezu/GumiDang">Gummy Dang</a></strong> | Frontend</li>
-  <li>🖥️ <strong>2024. 03 - 2024. 07</strong> | Working with the camera on<strong><a href="https://github.com/Mocamp-Official/Mocamp-FrontEnd">MoCamp</a></strong> | Frontend</li>
+    <li>🚶‍♂️ <strong>2024. 07 - 2024. 12</strong> | Walk Record Service <strong><a href="https://github.com/KongMezu/GumiDang">"Gummy Dang"</a></strong> | Frontend</li>
+  <li>🖥️ <strong>2024. 03 - 2024. 07</strong> | Working with the camera on<strong><a href="https://github.com/Mocamp-Official/Mocamp-FrontEnd">"MoCamp"</a></strong> | Frontend</li>
 </ul>
 
 <br>
