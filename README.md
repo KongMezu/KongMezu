@@ -16,7 +16,7 @@
   <li>👩‍💻 <strong>2024.02 – 2024.11</strong>  | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
   <li>🦁 <strong>2024. 03 - 2024. 12</strong> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
   <li>🍭 <strong>2025. 03 - 2025. 06</strong> | GDG on Campus CUK - 가톨릭대학교 GDG 4기 </li>
-  <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend - 🏆 Grand Prize</li>
+  <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend - 🏆 </li>
 </ul>
 
 
@@ -25,7 +25,7 @@
 <ul>
   <li>🔄 <strong>2024. 10</strong> | Rental Service in school <strong><a href="https://github.com/KongMezu/ggum_borrow_me">“Borrow Me”</a></strong> | Frontend, Part Leader</li>
     <li>🚶‍♂️ <strong>2024. 07 - 2024. 12</strong> | Walk Record Service <strong><a href="https://github.com/KongMezu/GumiDang">"Gummy Dang"</a></strong> | Frontend</li>
-  <li>🖥️ <strong>2024. 03 - 2024. 07</strong> | Working with the camera on<strong><a href="https://github.com/Mocamp-Official/Mocamp-FrontEnd">"MoCamp"</a></strong> | Frontend</li>
+  <li>🖥️ <strong>2025. 03 - 2025. 07</strong> | Working with the camera on<strong><a href="https://github.com/Mocamp-Official/Mocamp-FrontEnd">"MoCamp"</a></strong> | Frontend</li>
 </ul>
 
 <br>
