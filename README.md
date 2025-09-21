@@ -16,7 +16,7 @@
   <li>👩‍💻 <strong>2024.02 – 2024.11</strong>  | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
   <li>🦁 <strong>2024. 03 - 2024. 12</strong> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
   <li>🍭 <strong>2025. 03 - 2025. 06</strong> | GDG on Campus CUK - 가톨릭대학교 GDG 4기 </li>
-  <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend - 🏆 </li>
+  <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend - 🏆대상 </li>
 </ul>
 
 
