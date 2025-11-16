@@ -41,11 +41,6 @@
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
 </p>
 
-<!-- Studying -->
-<h2  align="center">📚 Studying </h2>
-<p align="center">
-</p>
-
 <!-- Tools -->
 <h2 align="center">🛠 Tools </h2>
 <p align="center">
