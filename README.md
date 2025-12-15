@@ -17,6 +17,8 @@
   <li>🦁 <strong>2024. 03 - 2024. 12</strong> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
   <li>🍭 <strong>2025. 03 - 2025. 06</strong> | GDG on Campus CUK - 가톨릭대학교 GDG 4기 </li>
   <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend - 🏆대상 </li>
+  <li>📰 <strong>2025. 06 - 2025. 10</strong> | 학술연구장학(컴퓨터정보공학부 부문) | 제 1저자 - 🏆1위(최우수) </li>
+  <li>🎓 <strong>2025. 09 - 2025. 11</strong> | 학술제 - 가톨릭대학교 컴퓨터정보공학부 | Frontend - 🏆최우수 </li>
 </ul>
 
 
