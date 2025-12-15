@@ -14,11 +14,19 @@
 <h2>🌟 Activity </h2>
 <ul>
   <li>👩‍💻 <strong>2024.02 – 2024.11</strong>  | SELAB – 가톨릭대학교 소프트웨어공학 연구실 | Undergraduate Research Assistant</li>
-  <li>🦁 <strong>2024. 03 - 2024. 12</strong> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend</li>
+  <li>🦁 <strong>2024. 03 - 2024. 12</strong> | LIKELION Univ. 12th - 멋쟁이사차럼 12기 | Frontend </li>
   <li>🍭 <strong>2025. 03 - 2025. 06</strong> | GDG on Campus CUK - 가톨릭대학교 GDG 4기 </li>
-  <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend - 🏆대상 </li>
-  <li>📰 <strong>2025. 06 - 2025. 10</strong> | 학술연구장학(컴퓨터정보공학부 부문) | 제 1저자 - 🏆1위(최우수) </li>
-  <li>🎓 <strong>2025. 09 - 2025. 11</strong> | 학술제 - 가톨릭대학교 컴퓨터정보공학부 | Frontend - 🏆최우수 </li>
+  <li>⏰ <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend </li>
+</ul>
+
+
+<!-- Award -->
+<h2>🏆 Award  </h2>
+<ul>
+  <li>🏆우수상(3위) - <strong>2024.05</strong>  | 가톨릭대학교 창업아이디어톤 | Team Member </li>
+  <li>🏆대상(1위) - <strong>2025. 03 - 2025. 07</strong> | It's Time - 잇타 7기 | Frontend  </li>
+  <li>🏆최우수(1위) - <strong>2025. 06 - 2025. 10</strong> | 학술연구장학(컴퓨터정보공학부 부문) | 제 1저자 </li>
+  <li>🏆최우수(2위) - <strong>2025. 09 - 2025. 11</strong> | 학술제 - 가톨릭대학교 컴퓨터정보공학부 | Frontend, Part Leader</li>
 </ul>
 
 
@@ -29,6 +37,7 @@
     <li>🚶‍♂️ <strong>2024. 07 - 2024. 12</strong> | Walk Record Service <strong><a href="https://github.com/KongMezu/GumiDang">"Gummy Dang"</a></strong> | Frontend</li>
   <li>🖥️ <strong>2025. 03 - 2025. 07</strong> | Working with the camera on<strong><a href="https://github.com/Mocamp-Official/Mocamp-FrontEnd">"MoCamp"</a></strong> | Frontend</li>
 </ul>
+
 
 <br>
 <!-- Tech Stack -->
