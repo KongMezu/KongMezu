@@ -7,7 +7,7 @@
 <!-- About Me -->
 <h2>🐤 About Me 🐤 </h2>
 <p>
-  <strong>Lee Sumin</strong> | <strong>Front-End Developer</strong> at Catholic University
+  <strong>Lee Sumin</strong> | <strong>Developer</strong> at Catholic University
 </p>
 
 <!-- Activity -->
